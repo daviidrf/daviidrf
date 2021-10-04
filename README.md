@@ -1,5 +1,3 @@
-Hello, I`m David ❄
-
 <div align="center">
  <img width="90%" src="https://user-images.githubusercontent.com/57682619/125846331-49721166-6ca2-4b95-9d08-a6980260ed09.gif" style="border-radius: 30px !important" />
 </div>
