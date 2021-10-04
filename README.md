@@ -18,8 +18,9 @@ I adapt well to my work environment and try as hard as possible to be efficient 
 
  </div>
 
+<div align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=daviidrf">
 </a>
 <a href="https://github.com/daviidrf?tab=followers"><img src="https://img.shields.io/github/followers/daviidrf?label=Followers&style=social" alt="GitHub Badge"></a>
-
+</div>
