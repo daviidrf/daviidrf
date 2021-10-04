@@ -10,3 +10,5 @@ I adapt well to my work environment and try as hard as possible to be efficient 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviidrf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviidrf&show_icons=true&theme=radical)
+
