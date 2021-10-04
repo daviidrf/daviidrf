@@ -9,8 +9,8 @@
 </div>
 
 
-<h3 align="center">Prepared and eager to start working, with an interest in continuing to learn and improve. 
-I adapt well to my work environment and try as hard as possible to be efficient with what I do.</h3>
+<h3 align="center">This will be the place where I upload all my projects and program ideas that come to mind. Feel free to use what you need.
+</h3>
 
 <div align="center" margin-top="10px">
 
