@@ -1,5 +1,5 @@
 <div align="center">
- <img width="90%" src="https://user-images.githubusercontent.com/57682619/125846331-49721166-6ca2-4b95-9d08-a6980260ed09.gif" style="border-radius: 30px !important" />
+ <img width="90%" src="intro.gif" style="border-radius: 30px !important" />
 </div>
 <h1 align="center">Hi, I'm David</h1>
 <h3 align="center">Prepared and eager to start working, with an interest in continuing to learn and improve. 
