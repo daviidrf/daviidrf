@@ -1,7 +1,7 @@
+<h1 align="center">Hi, I'm David</h1>
 <div align="center">
  <img width="90%" src="introDavid.gif" style="border-radius: 40px !important" />
 </div>
-<h1 align="center">Hi, I'm David</h1>
 <h3 align="center">Prepared and eager to start working, with an interest in continuing to learn and improve. 
 I adapt well to my work environment and try as hard as possible to be efficient with what I do.</h3>
 
