@@ -7,7 +7,7 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1550147149/5315/starwars_jediorder.png?1550147149" width="50px">
 </h1>
 
-<h3 align="center">This will be the place where I upload all my projects and program ideas that come to mind. Feel free to use what you need.
+<h3 align="center">This will be the place where I upload all my projects and design ideas that come to mind. Feel free to use what you need.
 </h3>
 
 <div align="center" margin-top="10px">
