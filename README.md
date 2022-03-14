@@ -1,13 +1,11 @@
+<div align="center">
+ <img width="90%" src="introDavid2.gif" style="border-radius: 40px !important" />
+</div>
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1550147210/5316/starwars_empire.png?1550147210" width="50px">
    Hi, I'm David
   <img src="https://emojis.slackmojis.com/emojis/images/1550147149/5315/starwars_jediorder.png?1550147149" width="50px">
 </h1>
-
-<div align="center">
- <img width="90%" src="introDavid2.gif" style="border-radius: 40px !important" />
-</div>
-
 
 <h3 align="center">This will be the place where I upload all my projects and program ideas that come to mind. Feel free to use what you need.
 </h3>
